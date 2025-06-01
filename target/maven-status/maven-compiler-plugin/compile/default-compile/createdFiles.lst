@@ -1,0 +1,5 @@
+com/sptraders/sptraders_user/entity/User.class
+com/sptraders/sptraders_user/repository/UserRepository.class
+com/sptraders/sptraders_user/service/UserService.class
+com/sptraders/sptraders_user/controller/UserController.class
+com/sptraders/sptraders_user/SptradersUserApplication.class
